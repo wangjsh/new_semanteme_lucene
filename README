@@ -1,0 +1,3 @@
+打成jar包后在后台运行的模块
+java -jar semanteme_lucene.jar
+nohup ./semanteme_lucene.sh > semanteme_lucene.log 2>&1 &

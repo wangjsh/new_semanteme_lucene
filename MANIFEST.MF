@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/IKAnalyzer2012FF_u1.jar lib/jdom-1.1.1.jar lib/jpinyin-1.0.jar lib/json-jena-1.0.jar lib/lucene-analyzers-common-4.10.2.jar lib/lucene-core-4.10.2.jar lib/lucene-queryparser-4.10.2.jar lib/mysql-connector-java-5.1.7-bin.jar lib/OtpErlang.jar
+Main-Class: lacom.lzu.edu.communication.MnesiaClient

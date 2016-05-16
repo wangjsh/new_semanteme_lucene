@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configs version='1'>
+<!-- 配置交集阈值 -->
+<config_yuzhi>0.75</config_yuzhi>
+<!-- 配置是否用拼音   0不用   1用-->
+<config_pinyin>0</config_pinyin>
+</configs>

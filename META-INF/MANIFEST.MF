@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: lacom.lzu.edu.communication.MnesiaClient
+Class-Path: ./lib/IKAnalyzer2012FF_u1.jar ./lib/jdom-1.1.1.j
+ ar ./lib/jpinyin-1.0.jar ./lib/json-jena-1.0.jar ./lib/lucene-anal
+ yzers-common-4.10.2.jar ./lib/lucene-core-4.10.2.jar ./lib/lucene-que
+ ryparser-4.10.2.jar ./lib/OtpErlang.jar ./lib/mysql-connector-java-5.1.7-bin.jar
+Ant-Version: Apache Ant 1.6.2
+Created-By: jdk1.8.1
+Built-By: liuchaoqun

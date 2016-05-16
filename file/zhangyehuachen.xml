@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ReguarExp version='1'>
+
+	<infr id='2' signal='1' regExp='(增|调)(大|加).*音|音.*(增|调)(大|加)' dev='tvbox' command='2yaya' > </infr>
+	<infr id='3' signal='1' regExp='(减|调)(小|少).*音|音.*(减|调)(小|少)' dev='tvbox' command='2ybyb' > </infr>
+	<infr id='4' signal='1' regExp='(向|往)(上|前)|(上|前)一个频道|频道.*(上|前)' dev='tvbox' command='1s1' > </infr>
+	<infr id='5' signal='1' regExp='(向|往)(下|后)|(下|后)一个频道|频道.*(下|后)' dev='tvbox' command='1s2' > </infr>
+	<infr id='6' signal='1' regExp='静音|安静' dev='tvbox' command='1jy' > </infr>
+	<infr id='7' signal='1' regExp='回看' dev='tvbox' command='1hk' > </infr>
+	<infr id='1' signal='1' regExp='(开|看)电视|电视.*开|关.*电视|电视.*关' dev='tvbox' command='2o1o2' > </infr>
+	<infr id='19' signal='2' regExp='开左边灯|左边灯.*开' dev=' ' command='08' > </infr>
+	<infr id='19' signal='2' regExp='关.*左边灯|左边灯.*关' dev='' command='08' > </infr>
+	<infr id='19' signal='2' regExp='开右边灯|右边灯.*开' dev='' command='09' > </infr>
+	<infr id='19' signal='2' regExp='关.*右边灯|右边灯.*关' dev='' command='09' > </infr>
+	<infr id='19' signal='2' regExp='开台灯|台灯.*开' dev='' command='03' > </infr>
+	<infr id='19' signal='2' regExp='关.*台灯|台灯.*关' dev='' command='03' > </infr>
+	<infr id='19' signal='2' regExp='开走廊灯|走廊灯.*开' dev='' command='06' > </infr>
+	<infr id='19' signal='2' regExp='关.*走廊灯|走廊灯.*关' dev='' command='06' > </infr>
+	<infr id='19' signal='2' regExp='开房灯|房灯.*开' dev='' command='01' > </infr>
+	<infr id='19' signal='2' regExp='关.*房灯|房灯.*关'  dev='' command='01' > </infr>
+	<infr id='19' signal='2' regExp='开镜前灯|镜前灯.*开' dev='' command='05' > </infr>
+	<infr id='19' signal='2' regExp='关.*镜前灯|镜前灯.*关' dev='' command='05' > </infr>
+	<infr id='19' signal='2' regExp='开落地灯|落地灯.*开' dev='' command='02' > </infr>
+	<infr id='19' signal='2' regExp='关.*落地灯|落地灯.*关' dev='' command='02' > </infr>
+	<infr id='19' signal='2' regExp='开夜灯|夜灯.*开' dev='' command='11' > </infr>
+	<infr id='19' signal='2' regExp='关.*夜灯|夜灯.*关' dev='' command='11' > </infr>
+	<infr id='19' signal='2' regExp='睡觉|睡眠' dev='' command='0' > </infr>
+	<infr id='19' signal='2' regExp='请勿打扰' dev='' command='07' > </infr>
+	<infr id='19' signal='3' regExp='叫早|叫醒|提醒' dev='' command='此功能暂未开通' > </infr>
+	<infr id='19' signal='3' regExp='退房' dev='' command='此功能暂未开通' > </infr>
+	<infr id='19' signal='3' regExp='洗衣' dev='' command='此功能暂未开通' > </infr>
+	<infr id='19' signal='3' regExp='订餐' dev='' command='此功能暂未开通' > </infr>
+	
+</ReguarExp>
